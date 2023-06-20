@@ -13,24 +13,29 @@
     },
   "env": {
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "Get it from @BotFather",
+      "value": "6068705272:AAE2kbM0_PWvnKJlbJl4KJzm0RVR_IYjy5k"
     },
     "API_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "Your API_ID, Get it from https://my.telegram.org/apps",
+      "value": "27108998"
     },
     "APP_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description": "Your API_HASH, Get it from https://my.telegram.org/apps",
+      "value": "f4fc03493766db361d7e85ed8974fe2f"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID",
-      "value": "9415241"
+      "value": "5191566338"
     },
     "MONGO_DB": {
       "description": "get from cloud.mongodb.com",
-      "value": ""
+      "value": "mongodb+srv://sonu55:sonu55@cluster0.vqztrvk.mongodb.net/?retryWrites=true&w=majority"
     },
     "FILES_CHANNEL": {
       "description": "Files Channel ID",
+      "value": "-1001904439888"
+
       "required": false
     }
   }
